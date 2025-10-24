@@ -2,7 +2,7 @@
 
 ## Sobre Mí 
 
-**Soy un desarrollador curioso** y me encanta *aprender cosas nuevas* cada día. Mi journey comenzó con HTML y CSS, y ahora me estoy adentrando en el mundo de los entornos de desarrollo**.
+**Soy un desarrollador curioso** y me encanta *aprender cosas nuevas* cada día. Mi journey comenzó con HTML y CSS, y ahora me estoy adentrando en el mundo de los entornos de desarrollo**
 
 ***Mi misión:*** Crear proyectos que impacten positivamente en la vida de las personas.
 
